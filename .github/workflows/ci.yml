@@ -1,5 +1,5 @@
 name: Continuous integration
 on: [push]
 jobs:
-  call-continuous-intergration-resuable:
-  uses: Devopslearningvamshi/github_resuable_repo/.github/workflows/ci.yml@main
+  call-continuous-integration-reusable:
+   uses: Devopslearningvamshi/github_resuable_repo/.github/workflows/ci.yml@main
